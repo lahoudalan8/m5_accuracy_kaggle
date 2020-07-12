@@ -4,7 +4,7 @@ Kaggle competition to predict sales at some USA stores
 
 # Before running the code you must:
 
-1) Create 3 folers in the root:
+1) Create 3 folders in the root:
 a) raw_data
 b) proc_data
 c) output_data
